@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deployment Link
 
-[Angular Simple Reddit](https://angular-reddit-lgdrrfkgzi.now.sh/).
+[Angular Simple Reddit](https://angular-reddit-lgdrrfkgzi.now.sh/)
